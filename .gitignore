@@ -1,0 +1,22 @@
+# Ignorar checkpoints de Jupyter
+# Ignore Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Ignorar archivos temporales de Python
+# Ignore Python Temporary Files
+_pycache_/
+*.pyc
+*.pyo
+
+# Ignorar archivos de sitema de Windows o Mac
+# Ignore Windows or Mac system files
+Thumbs.db
+.DS_Store
+
+# Ignorar carpeta de imagenes
+# Ignore images folder
+imagenes/
+
+# Ignorar archivos Word
+# Ignore files Word
+*.docx
