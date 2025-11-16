@@ -19,4 +19,4 @@ imagenes/
 
 # Ignorar archivos Word
 # Ignore files Word
-*.docx
+#*.docx
